@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "aula-3",
+  "version": "1.0.0",
+  "main": "exercicioAula3Express.js",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon exercicioAula3Express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
